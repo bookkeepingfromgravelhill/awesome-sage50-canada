@@ -31,21 +31,21 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 - [Official help: Connect via ODBC](https://help-sage50.na.sage.com/en-us/2024/Content/Getting_Started/COMPANY/Connecting_to_your_data_using_ODBC.htm) - Resource link.
 
-- *(Note)* Write access typically needs Sage 50 SDK/Partner program; ODBC is generally read-only. Community context: https://communityhub.sage.com/us/sage50_us/f/software-development-kit-sdk/121889/i-need-write-access-to-the-sage-50-database-to-integrate-a-3rd-party-app
+- *(Note)* Write access typically needs Sage 50 SDK/Partner program; ODBC is generally read-only. Community context: [https://communityhub.sage.com/us/sage50_us/f/software-development-kit-sdk/121889/i-need-write-access-to-the-sage-50-database-to-integrate-a-3rd-party-app](https://communityhub.sage.com/us/sage50_us/f/software-development-kit-sdk/121889/i-need-write-access-to-the-sage-50-database-to-integrate-a-3rd-party-app)
 
 ## Bank File Converters
 
 - [ofxtools (Python OFX parse/generate)](https://github.com/csingley/ofxtools) - Parse/generate OFX files. See also: [Docs](https://ofxtools.readthedocs.io/en/latest/installation.html).
 
-- **ofxstatement** (CLI, plugins, CSV→OFX). https://github.com/kedder/ofxstatement
+- **ofxstatement** (CLI, plugins, CSV→OFX). [https://github.com/kedder/ofxstatement](https://github.com/kedder/ofxstatement)
 
-- **ofxparse** (Python). https://github.com/jseutter/ofxparse
+- **ofxparse** (Python). [https://github.com/jseutter/ofxparse](https://github.com/jseutter/ofxparse)
 
-- **asgrim/ofxparser** (PHP). https://github.com/asgrim/ofxparser
+- **asgrim/ofxparser** (PHP). [https://github.com/asgrim/ofxparser](https://github.com/asgrim/ofxparser)
 
-- **csv2qif-py** (Python CSV→QIF). https://github.com/fabrizionastri/csv2qif-py
+- **csv2qif-py** (Python CSV→QIF). [https://github.com/fabrizionastri/csv2qif-py](https://github.com/fabrizionastri/csv2qif-py)
 
-- **csv2qif-ts** (TypeScript CSV→QIF). https://github.com/fabrizionastri/csv2qif-ts
+- **csv2qif-ts** (TypeScript CSV→QIF). [https://github.com/fabrizionastri/csv2qif-ts](https://github.com/fabrizionastri/csv2qif-ts)
 
 ## Datasets & APIs
 
@@ -79,7 +79,7 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 ## Notes
 
-- ODBC version mismatches: https://www.reddit.com/r/Sage/comments/1iubfli/sage50_2025_obdc_connector/
+- [ODBC version mismatches](https://www.reddit.com/r/Sage/comments/1iubfli/sage50_2025_obdc_connector/) - Community discussion of version pitfalls.
 
-- Canadian compounding sanity‑check: GnuCash News highlights semi‑annual compounding for Canadian loans. https://www.gnucash.org/news.phtml
+- [Canadian compounding sanity‑check (GnuCash News)](https://www.gnucash.org/news.phtml) - Note about semi‑annual compounding for Canadian loans.
 
