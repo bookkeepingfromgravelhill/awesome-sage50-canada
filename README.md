@@ -17,7 +17,7 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 - [Datasets & APIs](#datasets--apis)
 
-- [Guides & Notes](#guides--notes)
+- [Guides](#guides)
 
 - [Community](#community)
 
@@ -25,17 +25,17 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 ## Libraries & ODBC
 
-- **smart-io/php-sage50** — PHP lib for *Sage50 Canadian Edition*. https://github.com/smart-io/php-sage50
+- [smart-io/php-sage50](https://github.com/smart-io/php-sage50) - PHP lib for *Sage50 Canadian Edition*.
 
-- **Boran/sage** — PHP/ODBC read-only explorer & dumps (pattern works with Sage 50 CA). https://github.com/Boran/sage
+- [Boran/sage](https://github.com/Boran/sage) - PHP/ODBC read-only explorer & dumps (pattern works with Sage 50 CA).
 
-- **Official help: Connect via ODBC** — https://help-sage50.na.sage.com/en-us/2024/Content/Getting_Started/COMPANY/Connecting_to_your_data_using_ODBC.htm
+- [Official help: Connect via ODBC](https://help-sage50.na.sage.com/en-us/2024/Content/Getting_Started/COMPANY/Connecting_to_your_data_using_ODBC.htm) - Resource link.
 
 - *(Note)* Write access typically needs Sage 50 SDK/Partner program; ODBC is generally read-only. Community context: https://communityhub.sage.com/us/sage50_us/f/software-development-kit-sdk/121889/i-need-write-access-to-the-sage-50-database-to-integrate-a-3rd-party-app
 
 ## Bank File Converters
 
-- **ofxtools** (Python OFX parse/generate). https://github.com/csingley/ofxtools • Docs: https://ofxtools.readthedocs.io/en/latest/installation.html
+- [ofxtools (Python OFX parse/generate)](https://github.com/csingley/ofxtools) - Parse/generate OFX files. See also: [Docs](https://ofxtools.readthedocs.io/en/latest/installation.html).
 
 - **ofxstatement** (CLI, plugins, CSV→OFX). https://github.com/kedder/ofxstatement
 
@@ -49,37 +49,35 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 ## Datasets & APIs
 
-- **Canadian Sales Tax (JSON)** — https://github.com/wiredmax/canadian-sales-tax
+- [Canadian Sales Tax (JSON)](https://github.com/wiredmax/canadian-sales-tax) - Resource link.
 
-- **Canada Sales Tax API** — https://github.com/jpmurray/canada-sale-tax-api • https://salestaxapi.ca/
+- [Canada Sales Tax API](https://salestaxapi.ca/) - https://github.com/jpmurray/canada-sale-tax-api •.
 
-- **Bank of Canada Valet API** — https://www.bankofcanada.ca/valet/ • Python: https://github.com/tylercroberts/pyvalet • R: https://cran.r-project.org/web/packages/valet/index.html
+- [Bank of Canada Valet API](https://cran.r-project.org/web/packages/valet/index.html) - https://www.bankofcanada.ca/valet/ • Python: https://github.com/tylercroberts/pyvalet • R:.
 
-- **Government-wide Chart of Accounts (GoC)** — Overview: https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/index-eng.html
+- [Government-wide Chart of Accounts (GoC)](https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/index-eng.html) - Overview:.
 
-## Guides & Notes
+## Guides
 
-- **CRA – RC4022 (GST/HST registrants)** — https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html
+- [CRA – RC4022 (GST/HST registrants)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4022.html) - Resource link.
 
-- **CRA – RC4058 (Quick Method)** — https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058.html
+- [CRA – RC4058 (Quick Method)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/rc4058.html) - Resource link.
 
-- **CRA – T4002 (Self-employed income)** — https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html
+- [CRA – T4002 (Self-employed income)](https://www.canada.ca/en/revenue-agency/services/forms-publications/publications/t4002.html) - Resource link.
 
-- **CRA – T4127 (Payroll formulas)** — https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4127-payroll-deductions-formulas/t4127-jan.html
+- [CRA – T4127 (Payroll formulas)](https://www.canada.ca/en/revenue-agency/services/forms-publications/payroll/t4127-payroll-deductions-formulas/t4127-jan.html) - Resource link.
 
-- **CRA – T4032 (Payroll tables)** — https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/t4032-payroll-deductions-tables.html
+- [CRA – T4032 (Payroll tables)](https://www.canada.ca/en/revenue-agency/services/tax/businesses/topics/payroll/t4032-payroll-deductions-tables.html) - Resource link.
 
-- **ODBC version gotchas** — 32/64-bit mismatch and versioning threads (example): https://communityhub.sage.com/ca/sage_50/f/general-discussion/155896/sage-50-odbc-connection
-
-- **GoC – Government‑wide Chart of Accounts** — https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/index-eng.html
+- [ODBC version gotchas](https://communityhub.sage.com/ca/sage_50/f/general-discussion/155896/sage-50-odbc-connection) - 32/64-bit mismatch and versioning threads (example):.
 
 ## Community
 
-- **Sage City (Canada)** — https://communityhub.sage.com/ca/sage_50/
+- [Sage City (Canada)](https://communityhub.sage.com/ca/sage_50/) - Resource link.
 
-- **YouTube: Sage 50 Canada ODBC DSN setup** — https://www.youtube.com/watch?v=JjD8KBS7zmE
+- [YouTube: Sage 50 Canada ODBC DSN setup](https://www.youtube.com/watch?v=JjD8KBS7zmE) - Resource link.
 
-### Notes
+## Notes
 
 - ODBC version mismatches: https://www.reddit.com/r/Sage/comments/1iubfli/sage50_2025_obdc_connector/
 
