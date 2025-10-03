@@ -49,13 +49,12 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 
 ## Datasets & APIs
 
-- [Canadian Sales Tax (JSON)](https://github.com/wiredmax/canadian-sales-tax) - Resource link.
-
-- [Canada Sales Tax API](https://salestaxapi.ca/) - https://github.com/jpmurray/canada-sale-tax-api •.
-
-- [Bank of Canada Valet API](https://cran.r-project.org/web/packages/valet/index.html) - https://www.bankofcanada.ca/valet/ • Python: https://github.com/tylercroberts/pyvalet • R:.
-
-- [Government-wide Chart of Accounts (GoC)](https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/index-eng.html) - Overview:.
+- [Canadian Sales Tax (JSON)](https://github.com/wiredmax/canadian-sales-tax) - Provincial/territorial sales tax data (community-maintained).
+- [Canada Sales Tax API](https://github.com/jpmurray/canada-sale-tax-api) - Simple API for Canadian sales tax lookups. See also: [Hosted API](https://salestaxapi.ca/).
+- [Bank of Canada — Valet API](https://www.bankofcanada.ca/valet/) - Time series for rates and economic data. See also: [How-to](https://www.bankofcanada.ca/valet-api-how-to/).
+- [pyvalet (Python)](https://github.com/tylercroberts/pyvalet) - Python wrapper for the Valet API.
+- [valet (R)](https://cran.r-project.org/web/packages/valet/index.html) - R client for the Valet API.
+- [Government-wide Chart of Accounts (GoC)](https://www.tpsgc-pwgsc.gc.ca/recgen/pceaf-gwcoa/index-eng.html) - Federal reference chart of accounts and coding structure.
 
 ## Guides
 
@@ -82,4 +81,3 @@ Pull requests welcome! Read **CONTRIBUTING.md**.
 - [ODBC version mismatches](https://www.reddit.com/r/Sage/comments/1iubfli/sage50_2025_obdc_connector/) - Community discussion of version pitfalls.
 
 - [Canadian compounding sanity‑check (GnuCash News)](https://www.gnucash.org/news.phtml) - Note about semi‑annual compounding for Canadian loans.
-
