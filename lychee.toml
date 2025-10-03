@@ -1,0 +1,14 @@
+max_retries = 2
+retry_wait_time = 2
+timeout = 20
+max_concurrency = 4
+accept = ["200..=299", "403"]
+exclude = [
+  "https?://(www\.)?twitter\.com/.*",
+  "https?://(www\.)?x\.com/.*",
+  "https?://(www\.)?linkedin\.com/.*",
+  "https?://(www\.)?facebook\.com/.*",
+  "mailto:.*",
+]
+exclude_private = true
+github_token = true

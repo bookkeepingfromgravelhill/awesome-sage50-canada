@@ -1,0 +1,23 @@
+name: Suggest a new resource
+description: Propose a repo, dataset, or guide
+labels: [enhancement]
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Name
+    validations:
+      required: true
+  - type: input
+    id: url
+    attributes:
+      label: URL
+    validations:
+      required: true
+  - type: textarea
+    id: why
+    attributes:
+      label: Why include it?
+      description: Canada-specific relevance and what it adds
+    validations:
+      required: true
